@@ -1,8 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.ReferenceDatasets.ReferenceFeatures\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.ReferenceFeatures.dll.config
-C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.ReferenceDatasets.ReferenceFeatures\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.ReferenceFeatures.dll
-C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.ReferenceDatasets.ReferenceFeatures\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.ReferenceFeatures.pdb
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.ReferenceDatasets.ReferenceFeatures\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.ReferenceFeatures.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.ReferenceDatasets.ReferenceFeatures\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.ReferenceFeatures.pdb
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.ReferenceDatasets.ReferenceFeatures\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.ReferenceFeatures.dll.config
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.ReferenceDatasets.ReferenceFeatures\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.ReferenceFeatures.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.ReferenceDatasets.ReferenceFeatures\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.ReferenceFeatures.pdb
