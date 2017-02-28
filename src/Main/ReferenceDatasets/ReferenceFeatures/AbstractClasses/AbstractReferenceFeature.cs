@@ -19,6 +19,7 @@ namespace USC.GISResearchLab.Geocoding.Core.ReferenceDatasets.ReferenceFeatures
         public ReferenceFeatureType ReferenceFeatureType { get; set; }
         public ReferenceSourceType ReferenceSourceType { get; set; }
         public Geometry Geometry { get; set; }
+        public Geometry GeometrySource { get; set; }
         public string PrimaryId { get; set; }
         public string SecondaryId { get; set; }
         public bool IsValidCandidate { get; set; }
