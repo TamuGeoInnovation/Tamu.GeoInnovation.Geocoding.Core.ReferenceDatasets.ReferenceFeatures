@@ -5,7 +5,7 @@
         #region Properties
 
         public bool IsWithinRange { get; set; }
-      
+
 
         #endregion
 

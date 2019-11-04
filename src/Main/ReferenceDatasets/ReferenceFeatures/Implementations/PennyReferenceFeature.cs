@@ -2,11 +2,11 @@
 
 namespace USC.GISResearchLab.Geocoding.Core.ReferenceDatasets.ReferenceFeatures.Implementations
 {
-    public class PennyReferenceFeature: AbstractReferenceFeature
+    public class PennyReferenceFeature : AbstractReferenceFeature
     {
         #region Properties
 
-        
+
 
         #endregion
 

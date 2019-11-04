@@ -11,7 +11,7 @@ namespace USC.GISResearchLab.Geocoding.Core.ReferenceDatasets.ReferenceFeatures
 
     public enum ReferenceFeatureType { Dime, Nickle, Penny }
 
-    public abstract class AbstractReferenceFeature: IReferenceFeature
+    public abstract class AbstractReferenceFeature : IReferenceFeature
     {
         #region Properties
 
